@@ -1,0 +1,13 @@
+#container{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.25em;
+    font-weight: bold;
+    text-align: center;
+}
+button{
+    border-radius: 10px;
+    border: none;
+    background-color: hsl(348, 72%, 56%);
+    color: white;
+    
+}
